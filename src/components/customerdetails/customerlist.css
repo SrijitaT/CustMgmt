@@ -1,0 +1,60 @@
+
+.green-container
+{
+	padding-top:2em;
+background-color:#1a4c38;
+padding-bottom:2em;
+}
+
+.green-container div div p {
+	color:white;
+}
+
+.green-container div div input {
+	width:65%;
+	border-radius:25px;
+	height:100%;
+	margin-left:35%;
+	padding-left:1em;
+}
+
+.green-container div div input::placeholder {
+	text-align:center;	
+}
+.green-container div div button {
+	border-color:white!important;
+	width:100%!important;
+}
+.title-bar
+{
+	margin-top:2em;
+}
+.title-bar button{
+	background-color:white!important;
+	border-color:black!important;
+}
+.filter-btn button
+{
+	border-radius:25px!important;
+	color:white!important;
+}
+.cust-list tbody{
+	background-color:white!important;
+}
+.cust-list thead tr
+{
+	background-color:#1a4c38!important;
+	color:white!important;
+}
+.glyphicon-pencil
+{
+	margin-left:30%;
+}
+.glyphicon-trash
+{
+	margin-left:20%;
+}
+#newcust
+{
+	color:white!important;
+}
