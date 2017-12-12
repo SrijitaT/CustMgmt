@@ -1,0 +1,13 @@
+
+.title-bar
+{
+	margin-top:2em;
+}
+.title-bar Link button{
+	background-color:white!important;
+	border-color:black!important;
+}
+.title-bar IndexLink button{
+	background-color:white!important;
+	border-color:black!important;	
+}
